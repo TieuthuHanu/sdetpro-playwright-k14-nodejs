@@ -6,7 +6,7 @@
 const {
     divide,
     isEvenNumber
-} = require('../utils/NumberHandler');
+} = require('../../utils/NumberHandler');
 
 console.log("Result:", divide(10, 3));
 console.log("Is it even number?", isEvenNumber(5));

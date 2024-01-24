@@ -18,4 +18,4 @@ for (let i = 0; i < inputArr.length; i++) {
     }
 }
 
-console.log("Sorter array:", inputArr);
+console.log("Sorted array:", inputArr);
